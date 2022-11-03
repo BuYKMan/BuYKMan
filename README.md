@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Samed+Değer....;Nice+to+meet+you!&center=true&size=30">
-    (https://komarev.com/ghpvc/?BuYKMan)
+    
   </a>
 </h1>
 
@@ -10,7 +10,8 @@
   <code>
     <a href="https://www.linkedin.com/in/smddgr/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/BuYKMan" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/bensameddeger/" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/bensameddeger/" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"> Instagram</a>
+  </code>
 </h5>
 <br>
 <p align="center">
